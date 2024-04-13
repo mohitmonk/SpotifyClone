@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>README - Spotify Clone</title> -->
-<!--     <style>
+    <title>README - Spotify Clone</title>
+    <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -17,22 +17,25 @@
         }
 
         h2 {
-            margin-top: 30px;
+            margin-top: 20px;
         }
 
-        img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
+        ul {
+            list-style-type: none;
+            padding: 0;
         }
 
-        pre {
+        li {
+            margin-bottom: 10px;
+        }
+
+        code {
             background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
+            padding: 2px 5px;
+            border-radius: 4px;
+            font-family: Consolas, monospace;
         }
-    </style> -->
+    </style>
 </head>
 
 <body>
@@ -57,13 +60,13 @@
     </ul>
 
     <h2>Preview</h2>
-    <img src="./preview.png" alt="Preview">
+    <img src="./preview.png" alt="Preview" style="max-width: 100%;">
 
     <h2>How to Use</h2>
     <ol>
         <li>Clone the repository:</li>
     </ol>
-    <pre><code>git clone https://github.com/your-username/spotify-clone.git</code></pre>
+    <p><code>git clone https://github.com/your-username/spotify-clone.git</code></p>
     <ol start="2">
         <li>Open the <code>index.html</code> file in your web browser.</li>
     </ol>
