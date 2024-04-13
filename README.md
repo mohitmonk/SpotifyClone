@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Spotify Clone</title>
-    <style>
+<!--     <title>README - Spotify Clone</title> -->
+<!--     <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -32,7 +32,7 @@
             border-radius: 5px;
             overflow-x: auto;
         }
-    </style>
+    </style> -->
 </head>
 
 <body>
