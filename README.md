@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h1>Spotify Clone</h1>
+    <h1><a href="https://mohitmonk.github.io/SpotifyClone/"> Spotify Clone </a> </h1>
     <p>This project is a simple Spotify clone webpage created using HTML and CSS. It aims to mimic the basic functionality and layout of the Spotify web application.</p>
     <h2>Features</h2>
     <ul>
