@@ -24,7 +24,7 @@
         <li>Font Awesome for icons</li>
     </ul>
     <h2>Preview</h2>
-    <img src="./preview.png" alt="Preview" style="max-width: 100%;">
+    <img src="Images/preview.png" alt="Preview" style="max-width: 100%;">
     <h2>How to Use</h2>
     <ol>
         <li>Clone the repository:</li>
